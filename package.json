@@ -1,0 +1,27 @@
+{
+  "name": "hs_16-cli-number-guessing-game",
+  "version": "2.0.0",
+  "description": "This is a simple number guessing game",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassaan-Saleem/Hs-Cli-Number-Guessing-Game.git"
+  },
+  "author": "Muhammad Hassaan Saleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassaan-Saleem/Hs-Cli-Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/Hassaan-Saleem/Hs-Cli-Number-Guessing-Game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
